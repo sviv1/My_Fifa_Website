@@ -1,0 +1,281 @@
+
+ h1{
+   font-family: 'Archivo Black', sans-serif;
+   color: #000;
+ font-size: 90px;
+ line-height: 8rem;
+  font-weight: bold;
+
+ }
+ h2{
+   font-family:'Gabriola';
+   color: #393938;
+   font-weight: bold;
+ }
+
+p{
+  font-family:  "Gabriola" ;
+
+  font-style: normal;
+  font-weight: 400;
+  line-height: 28px;
+  color: #161616;
+  font-size: 29px;
+}
+.navbar-brand{
+  font-size: 150%;
+  image-resolution: 50%from-image;
+  font-weight: bolder;
+
+}
+
+
+.navbaar{
+    background-color: #343A40;
+}
+.container-fluid {
+  background-color:#dcd8d5;
+}
+.tittle{
+  background-color:#dcd8d5;
+}
+
+body{
+  margin: 0;
+  height: 100%;
+  padding: 0;
+}
+.Download{
+  margin: 10% 3% 5% 0;
+}
+.ronaldo{
+  position: relative;
+  left: 12%;
+  height: 1000px;
+  width: auto;
+
+}
+
+
+.centre{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 6%;
+}
+
+
+.ff{
+  text-align: center;
+  margin: 5% 3% 5% 0;
+}
+.gg{
+
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+
+
+}
+.overlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 100%;
+  opacity: 0;
+  transition: .5s ease;
+  background-color: #072967;
+  background-image: linear-gradient(62deg, #072967 0%, #be345a 100%);
+}
+.carousel-inner:hover .overlay {
+  opacity: 1;
+}
+
+.text {
+  color: white;
+  font-style: italic;
+  font-weight: bold;
+  font-size: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.sub{
+
+  background-color: #072967;
+  background-image: linear-gradient(62deg, #072967 0%, #be345a 100%);
+  color: #fff;
+  font-size: 35px;
+  height: 80px;
+
+}
+
+
+.ss{
+  padding-left: 15%;
+}
+
+.a h3{
+  margin-top: 10%;
+}
+
+
+.bb{
+ margin-left: 25%;
+ margin-top: 1%;
+}
+
+.hd{
+  font-size: 45px;
+  text-align: center;
+}
+
+.gi{
+ width: 85px;
+ height: auto;
+ margin-top: 5%;
+
+ }
+
+#pricing{
+ padding: 0px 40px;
+ text-align: center;
+}
+
+.pricing-column{
+  padding: 3% 2%;
+
+}
+.card{
+    background-color: #E8F4EA;
+}
+.info-div {
+    margin: 2% 3%;
+}
+
+#cta {
+    background-color: #072967;
+    background-image: linear-gradient(62deg, #072967 0%, #be345a 100%);
+    width: 100%;
+
+}
+.trophy{
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.container h2{
+  color: #fff;
+   font-family: 'Archivo White', sans-serif;
+}
+.container p{
+color: #fff;
+  font-size: 23px;
+}
+.container{
+  padding: 5% 3% 5% 0;
+}
+
+.form-group {
+    margin: 1%;
+    /*background-color: transparent;*/
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.form-check {
+    margin: 10% 1% 4% 0;
+    color:#fff;
+}
+
+.signup {
+    margin: 2% 1% 10% 0;
+}
+
+.btn-primary {
+    background-color: red;
+    border-color: red;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    background-color: darkred;
+    border-color: darkred;
+}
+
+  .form-group {
+    background-color: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+  }
+
+  .form-control {
+    background-color: transparent;
+    color:#fff;
+  }
+
+
+  .li{
+      color:red;
+  }
+
+
+
+.info-div{
+  color: #fff;
+  padding: 30% 1%;
+}
+#footer{
+  padding-top: 5%;
+  text-align: center;
+  background-color: #252525;
+
+
+}
+.bs{
+  color: #fff;
+  padding-bottom: 2%;
+
+}
+.bss{
+  color: #fff;
+}
+.fi{
+  width: 85px;
+  height: auto;
+  position: relative;
+  left:45%;
+
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+}
+
+.social-icon {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 24px;
+}
+
+.social-icon i {
+  transition: transform 0.3s ease-in-out;
+}
+
+.social-icon:hover i {
+  transform: scale(1.2);
+}
